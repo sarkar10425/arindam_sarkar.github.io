@@ -7,12 +7,12 @@ var database=[
 
 var newsFeed=[
 	{
-		username:"Ishita",
+		username:"Alexa",
 		timeline:"I love u Arindam",
 	},
 	{
-		username:"Harsha",
-		timeline:"I love u more than Ishita Arindam",
+		username:"Sirie",
+		timeline:"I love u more than Alexa Arindam",
 	}
 ];
 
